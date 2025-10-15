@@ -5,7 +5,7 @@ Uma loja virtual fictícia feita com HTML e CSS, dedicada a bonecos de terror.
 Este projeto simula uma loja digital de bonecos de horror. Ele inclui:
 
 * Design temático escuro e visual sombrio;
-* Catálogo com 4 jogos de terror (remakes populares);
+* Catálogo com 4 bonecos de terror;
 * Layout responsivo com Grid e Flexbox;
 * Tipografia e cores baseadas em estética de terror;
 * Botões com efeitos visuais e sombras;
